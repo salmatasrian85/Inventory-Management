@@ -1,0 +1,35 @@
+Received Data: Array
+(
+    [dispatch_id] => TRK675066c98c02f
+    [action] => accept
+)
+
+Parsed Data: dispatch_id=TRK675066c98c02f, action=accept
+Received Data: Array
+(
+    [dispatch_id] => TRK675ca43905278
+    [action] => accept
+)
+
+Parsed Data: dispatch_id=TRK675ca43905278, action=accept
+Received Data: Array
+(
+    [dispatch_id] => TRK675ca4481ef02
+    [action] => accept
+)
+
+Parsed Data: dispatch_id=TRK675ca4481ef02, action=accept
+Received Data: Array
+(
+    [dispatch_id] => TRK675ca467681ae
+    [action] => accept
+)
+
+Parsed Data: dispatch_id=TRK675ca467681ae, action=accept
+Received Data: Array
+(
+    [dispatch_id] => TRK675ca49e06256
+    [action] => accept
+)
+
+Parsed Data: dispatch_id=TRK675ca49e06256, action=accept
